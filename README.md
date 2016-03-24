@@ -23,11 +23,31 @@ In this first version I've included icons, personally I use most. The icons are 
 - Instagram
 - Reddit
 
+The predefined classes are as follows:
+
+.icoron-github-squared
+.icon-linkedin-squared
+.icon-facebook-squared
+.icon-pinterest-squared
+.icon-youtube-squared
+.icon-tumblr-squared
+.icon-whatsapp
+.icon-vimeo-squared
+.icon-twitter-squared
+.icon-twitch
+.icon-behance-squared
+.icon-instagram
+.icon-infojobs
+.icon-gplus-squared
+.icon-delicious
+.icon-reddit-squared
+
+
 The project is based on fontello.com
 
 All icons are SQUARED, as they are the ones who usually use. But you can add other styles and contribute them to the repository.
 
-There is an official thread for any questions or forovagos.es contribution: http://forovagos.es
+There is an official thread for any questions or forovagos.es contribution: http://forovagos.es/showthread.php?tid=23
 
 You can see the official demo: http://forovagos.es/sociello-font/demo.html
 
@@ -51,10 +71,29 @@ En esta primera versión he incluido los iconos que, personalmente más utilizo.
 - Instagram
 - Reddit
 
+Las clases predefinidas son las siguientes: 
+
+.icon-github-squared
+.icon-linkedin-squared
+.icon-facebook-squared
+.icon-pinterest-squared
+.icon-youtube-squared
+.icon-tumblr-squared
+.icon-whatsapp
+.icon-vimeo-squared
+.icon-twitter-squared
+.icon-twitch
+.icon-behance-squared
+.icon-instagram
+.icon-infojobs
+.icon-gplus-squared
+.icon-delicious
+.icon-reddit-squared
+
 El proyecto está basado en fontello.com
 
 Todos los iconos son CUADRADOS, ya que son los que utilizo habitualmente. Pero puedes añadir otros estilos y aportarlos al repositorio. 
 
-Hay un hilo oficial en forovagos.es para cualquier duda o aportación: http://forovagos.es
+Hay un hilo oficial en forovagos.es para cualquier duda o aportación: http://forovagos.es/showthread.php?tid=23
 
 Puedes ver la Demo oficial en: http://forovagos.es/sociello-font/demo.html
