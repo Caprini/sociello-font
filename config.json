@@ -1,0 +1,114 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4743b088aa95d6f3b6b990e770d3b647",
+      "css": "facebook-squared",
+      "code": 59394,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "79689c4c425b7cdaa2746f510e81e27a",
+      "css": "pinterest-squared",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1145676a91138011729fa2909997af66",
+      "css": "linkedin-squared",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e331ff486a299c6bdf0056426c8fac53",
+      "css": "youtube-squared",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5b79895d979c408282b4e92fa7db8e82",
+      "css": "tumblr-squared",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1f66490bf24c99e2c56b866d8fbd0372",
+      "css": "vimeo-squared",
+      "code": 59399,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "906348dc798a0d42715cc97c875e3ac6",
+      "css": "twitter-squared",
+      "code": 59400,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b501bc7737850366e98043c585163eec",
+      "css": "behance-squared",
+      "code": 59402,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 59403,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "f0cf7db1b03cb65adc450aa3bdaf8c4d",
+      "css": "gplus-squared",
+      "code": 59405,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6975c4c656d41a0283d9c52516bf38ed",
+      "css": "delicious",
+      "code": 59406,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4fc515c6a083b42e628273ab06cb2a90",
+      "css": "reddit-squared",
+      "code": 59407,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0ece9a12de796b8411f868d582bee678",
+      "css": "github-squared",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
+      "css": "whatsapp",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e70df9acbabaebfbbf9c1dbc3e52ab13",
+      "css": "twitch",
+      "code": 59401,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3addd96f9a52d2d070036d516ddf8d93",
+      "css": "infojobs",
+      "code": 59404,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M136.5 13.5C100.5 21.4 75.5 34.9 51.6 58.9 25 85.4 13 108.9 5.7 148.4-3.1 195.8-2.1 821.9 7.3 859.9 20.8 918.8 54.7 958.3 109.4 980.7 138 992.2 140.1 992.2 481.8 993.8 724.5 994.8 834.9 993.8 856.8 989.6 931.8 975 980.7 927.1 994.8 855.7 999 834.9 1000 721.4 999 481.8L997.4 138 980.2 102.6C967.7 77.1 955.2 61.5 936.5 46.9 890.1 9.9 897.4 10.4 508.3 8.9 276.6 8.3 152.6 9.9 136.5 13.5ZM468.2 218.2C475 222.4 474 239.6 461.5 342.2 429.2 604.2 422.4 656.3 419.3 661.5 415.6 667.7 325 668.8 320.8 662.5 318.8 658.3 327.1 582.8 357.3 333.3 365.1 268.8 373.4 219.8 376.6 217.7 385.4 212 459.4 213 468.2 218.2ZM680.2 221.4C682.3 225.5 670.3 333.9 654.2 462.5 627.6 675.5 624 697.9 610.4 724 588.5 767.7 561.5 782.3 495.3 785.4 466.7 786.5 437.5 786.5 430.2 784.4 418.2 781.3 416.7 778.6 416.7 756.3 416.7 742.7 419.3 728.6 422.9 725 426.6 721.4 443.2 718.8 461.5 718.8 488 718.8 496.9 716.7 507.3 707.3 521.9 694.3 520.3 703.1 565.6 335.9 573.4 272.4 581.8 219.8 585.4 217.7 588.5 215.6 610.4 213.5 634.4 213.5 667.7 213.5 678.1 215.1 680.2 221.4Z",
+        "width": 1000
+      },
+      "search": [
+        "infojobs"
+      ]
+    }
+  ]
+}
